@@ -2,6 +2,10 @@
 
 A UserScript that displays your **International LeetCode** problem solving status on **Chinese LeetCode** problem list pages.
 
+![Demo Screenshot](./demo.png)
+
+*Example: Status icons displayed next to problem links*
+
 ## Features
 
 - 🔍 **Automatic Detection**: Scans problem links on Chinese LeetCode pages
@@ -57,6 +61,10 @@ A UserScript that displays your **International LeetCode** problem solving statu
    - Detect problem links on the page
    - Fetch your solving status from International LeetCode
    - Display status icons next to each problem link
+
+![Usage Example](./usage-example.png)
+
+*Before and after: Problem links with status indicators*
 
 ## How It Works
 
